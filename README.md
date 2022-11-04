@@ -1,1 +1,1 @@
-# Society-Managment-system
+# Society-Management-system
